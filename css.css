@@ -1,3 +1,9 @@
 table {
     border: solid 1px;
 }
+td {
+    border: solid 1px;
+}
+.top caption {
+    caption-side: top;
+}
