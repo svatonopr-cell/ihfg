@@ -1,9 +1,10 @@
 table {
     border: solid 1px;
 }
-td {
+td, th {
     border: solid 1px;
+    background-color: rgb(250, 59, 152);
 }
-.top caption {
-    caption-side: top;
+table > caption {
+    caption-side: bottom;
 }
